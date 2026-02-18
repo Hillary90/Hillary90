@@ -16,12 +16,12 @@
 
 I'm a full-stack developer passionate about creating scalable web applications and making open source more accessible. I thrive on continuous learning and leveraging technology to solve real-world problems 😎.
 
-- 🔭 I'm currently working on **scalable web applications**
-- 🌱 I'm currently learning **React.js and modern web development**
-- 👯 I'm looking to collaborate on **open source trading tools**
-- 💬 Ask me about **React, Python, Django, Flask, and JavaScript**
-- 📫 Reach me at **hillarytanui80@gmail.com**
-- ⚡ Fun fact: **I love exploring new technologies and contributing to open source!**
+- I'm currently working on **scalable web applications**
+- I'm currently learning **React.js and modern web development**
+- I'm looking to collaborate on **open source trading tools**
+- Ask me about **React, Python, Django, Flask, and JavaScript**
+- Reach me at **hillarytanui80@gmail.com**
+- Fun fact: **I love exploring new technologies and contributing to open source!**
 
 ---
 
@@ -30,7 +30,7 @@ I'm a full-stack developer passionate about creating scalable web applications a
 <div align="center">
   
 [![Twitter](https://img.shields.io/badge/Twitter-@larry__tanui-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larry_tanui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hillary%20Tanui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hillary-tanui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hillary%20Tanui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillary-tanui-329a39191)
 [![Instagram](https://img.shields.io/badge/Instagram-@hillarytanui44-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hillarytanui44)
 
 </div>
