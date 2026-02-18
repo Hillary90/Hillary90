@@ -12,20 +12,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a full-stack developer passionate about creating scalable web applications and making open source more accessible. I thrive on continuous learning and leveraging technology to solve real-world problems 😎.
 
-- I'm currently working on **scalable web applications**
-- I'm currently learning **React.js and modern web development**
-- I'm looking to collaborate on **open source trading tools**
-- Ask me about **React, Python, Django, Flask, and JavaScript**
-- Reach me at **hillarytanui80@gmail.com**
-- Fun fact: **I love exploring new technologies and contributing to open source!**
+-  I'm currently working on **scalable web applications**
+-  I'm currently learning **React.js and modern web development**
+-  I'm looking to collaborate on **open source trading tools**
+-  Ask me about **React, Python, Django, Flask, and JavaScript**
+-  Reach me at **hillarytanui80@gmail.com**
+-  Fun fact: **I love exploring new technologies and contributing to open source!**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -37,7 +37,7 @@ I'm a full-stack developer passionate about creating scalable web applications a
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
@@ -71,45 +71,45 @@ I'm a full-stack developer passionate about creating scalable web applications a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  
-![Hillary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hillary90&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary90&layout=compact&theme=radical&hide_border=true)
+[![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillary90&show_icons=true&theme=tokyonight)](https://github.com/Hillary90)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hillary90&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary90&layout=compact&theme=tokyonight)](https://github.com/Hillary90)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hillary90&theme=tokyonight)](https://github.com/Hillary90)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Analytics
 
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Hillary90&theme=radical&no-frame=true&row=1&column=7)
+
+[![Hillary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hillary90&theme=tokyo-night)](https://github.com/Hillary90)
 
 </div>
 
 ---
 
-## 💼 Open Source Contributions
+## Open Source Contributions
 
 I'm actively contributing to open source projects and looking for exciting collaborations, especially in:
-- 🚀 Web development tools and frameworks
-- 📈 Trading tools and financial applications
-- 🤝 Developer productivity tools
+- Web development tools and frameworks
+- Trading tools and financial applications
+- Developer productivity tools
 
 ---
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hillary90&color=brightgreen&style=for-the-badge)
 
-⭐️ From [Hillary90](https://github.com/Hillary90)
+From [Hillary90](https://github.com/Hillary90)
 
 </div>
