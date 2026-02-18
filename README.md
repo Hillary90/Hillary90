@@ -75,10 +75,6 @@ I'm a full-stack developer passionate about creating scalable web applications a
 
 <div align="center">
 
-[![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hillary90&show_icons=true&theme=tokyonight)](https://github.com/Hillary90)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hillary90&layout=compact&theme=tokyonight)](https://github.com/Hillary90)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hillary90&theme=tokyonight)](https://github.com/Hillary90)
 
 </div>
