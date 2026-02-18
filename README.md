@@ -81,16 +81,6 @@ I'm a full-stack developer passionate about creating scalable web applications a
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-[![Hillary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hillary90&theme=tokyo-night)](https://github.com/Hillary90)
-
-</div>
-
----
-
 ## Open Source Contributions
 
 I'm actively contributing to open source projects and looking for exciting collaborations, especially in:
